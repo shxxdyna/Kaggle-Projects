@@ -1,2 +1,2 @@
 # Kaggle-Projects
-This is a repository for all my data analysis projects that I made on Kaggle. 
+This is a repository where I compile all my introductory projects to data analysis in Kaggle. 
